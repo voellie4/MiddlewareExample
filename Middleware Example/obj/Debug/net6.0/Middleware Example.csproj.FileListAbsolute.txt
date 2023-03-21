@@ -1,0 +1,32 @@
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\appsettings.Development.json
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\appsettings.json
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Middleware Example.exe
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Middleware Example.deps.json
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Middleware Example.runtimeconfig.json
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Middleware Example.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Middleware Example.pdb
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.csproj.AssemblyReference.cache
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.AssemblyInfoInputs.cache
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.AssemblyInfo.cs
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.csproj.CoreCompileInputs.cache
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\staticwebassets.build.json
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\staticwebassets.development.json
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\scopedcss\bundle\Middleware Example.styles.css
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.csproj.CopyComplete
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.dll
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\refint\Middleware Example.dll
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.pdb
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\Middleware Example.genruntimeconfig.cache
+C:\Development\test\Middleware Example\Middleware Example\obj\Debug\net6.0\ref\Middleware Example.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Vanara.Core.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Vanara.PInvoke.Mpr.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\Vanara.PInvoke.Shared.dll
+C:\Development\test\Middleware Example\Middleware Example\bin\Debug\net6.0\fr\Vanara.Core.resources.dll
